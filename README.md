@@ -2,7 +2,7 @@ Hello, World! My name is Alex.
 
 I'm a logistical engineer and enthusiastic programmer in my daily life.
 
-Currently, I'm fulltime employed, but I'm open for a collaborating in a free time.
+Currently, I'm fulltime employed, but I'm open for any collaborating in a free time.
 
 My interests includes web performance (backend), databases and data analysis.
 
